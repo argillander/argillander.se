@@ -178,3 +178,7 @@ a:hover, a:focus, a:active {
 .flag-icon{
     margin-right: 1vw !important;
 }
+
+#externallinkicon{
+    margin-right:0.1vw;
+}
