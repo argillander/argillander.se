@@ -182,3 +182,15 @@ a:hover, a:focus, a:active {
 #externallinkicon{
     margin-right:0.1vw;
 }
+
+.code-block{
+  font-family: Consolas;
+  background: whitesmoke;
+  width: 50vw;
+  padding-left: 2vw;
+  color:black;
+}
+
+#keyicon{
+  padding-right: 10px;
+}
